@@ -3,31 +3,15 @@ Style
 
 A guide for programming in style.
 
-Use [Hound] to automatically review your
-GitHub pull requests for
-style guide violations.
-
-[Hound]: https://houndci.com
-
 In addition to the general guidelines below, we also have the following more
 detailed, language/framework-specific style guides:
 
-* [Android](android)
-* [Backbone](backbone)
-* [CoffeeScript](coffeescript)
-* [Ember.js](ember)
-* [ERb](erb)
 * [Git](git)
-* [Haskell](haskell)
 * [HTML](html)
 * [JavaScript](javascript)
-* [Objective-C](objective_c)
-* [Python](python)
 * [Rails](rails)
 * [Ruby](ruby)
 * [Sass](sass)
-* [Shell](shell)
-* [Swift](swift)
 * [Testing](testing)
 
 Formatting
@@ -44,7 +28,7 @@ Formatting
 * Indent continued lines two spaces.
 * Indent private methods equal to public methods.
 * If you break up a chain of method invocations, keep each method invocation on
-  its own line. Place the `.` at the end of each line, except the last.
+  its own line. Place the `.` at the beginning end of each line.
   [Example][dot guideline example].
 * Use 2 space indentation (no tabs).
 * Use an empty line between methods.

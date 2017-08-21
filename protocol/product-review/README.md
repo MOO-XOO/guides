@@ -21,9 +21,10 @@ have them review the changes in person.
 Screencast
 ----------
 
-Use [Licecap] to share a screencast gif in the project's [Slack] channel.
+Use [Licecap] or [Recordit] to share a screencast gif in the project's [Slack] channel.
 
 [Licecap]: http://www.cockos.com/licecap/
+[Recordit]: http://recordit.co
 [Slack]: https://slack.com/
 
 SSH tunnel
@@ -40,7 +41,6 @@ Then, share the ngrok URL in the project's Slack channel.
 Video chat and screenshare
 --------------------------
 
-Start a Google Hangout in the project's Slack channel:
+Use screenhero to share and collaborate with a teammate.
 
-    /hangout
-
+[screenhero]: https://screenhero.com

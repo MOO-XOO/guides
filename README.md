@@ -5,15 +5,10 @@ Guides for getting things done, programming well, and programming in style.
 
 * [Best Practices](./best-practices)
 * [Code Review](./code-review)
-* [How to](./how-to)
 * [Protocol](./protocol)
   * [Communication](./protocol/communication)
   * [Git](./protocol/git)
-  * [iOS](./protocol/ios)
-  * [Open Source](./protocol/open-source)
   * [Product Review](./protocol/product-review)
-  * [Rails](./protocol/rails)
-* [Security](./security)
 * [Style](./style)
 
 High level guidelines:
@@ -43,11 +38,11 @@ waiting a week for everybody to leave feedback**.
 Credits
 -------
 
+Guides is maintained by [moo-xoo, gmbh](http://moo-xoo.com) and was originally forked
+from [thoughtbot, inc](https://thoughtbot.com).
+
 Thank you, [contributors](https://github.com/thoughtbot/guides/graphs/contributors)!
-
-![thoughtbot](http://presskit.thoughtbot.com/images/thoughtbot-logo-for-readmes.svg)
-
-Guides is maintained by [thoughtbot, inc](https://thoughtbot.com).
+Thank you, [thoughtbot, inc](https://thoughtbot.com).
 
 License
 -------
